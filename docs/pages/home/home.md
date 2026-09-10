@@ -24,5 +24,4 @@
 Немає власної форми, тільки посилання на застосунок Fitcontrol (сторонній, не робимо самі)
 
 ## Скріншоти
-![](screenshots/01-hero.png)
-![](screenshots/02-services.png)
+![Головна сторінка](screenshots/00-full-page.png)
